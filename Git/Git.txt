@@ -1,0 +1,7 @@
+Clone 
+git clone /đường-dẫn-đến/repository/
+
+cap nhat
+git add .
+git commit -m "Ghi chú Commit"
+git push origin master
